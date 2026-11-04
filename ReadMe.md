@@ -8,7 +8,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Qaisar-baloch&label=PROFILE%20VIEWS&color=4F46E5&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/FOCUS-Generative%20AI-6D5DFB?style=flat" alt="Focus: Generative AI" />
+  <img src="https://img.shields.io/badge/FOCUS-Generative%20AI-6D5DFB?style=flat" alt="Focus: Generative and Agentic AI" />
   <img src="https://img.shields.io/badge/BASED%20IN-Hungary-334155?style=flat" alt="Based in Hungary" />
 </p>
 
