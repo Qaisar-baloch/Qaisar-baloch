@@ -35,6 +35,32 @@ My work and learning connect physical systems with software: electronics and emb
 
 I like taking a problem from idea to a tested prototype: understanding the system, shaping the workflow, integrating tools, checking the output, and documenting how it works. I use AI-assisted development where it helps, while keeping project contributions and limitations clear.
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**AI & Data**
+
+Retrieval-augmented generation, LLM applications, structured AI workflows, embeddings, vector search, dashboards and DAX.
+
+</td>
+<td width="33%" valign="top">
+
+**Electronics**
+
+ESP32 and Arduino systems, sensor integration, PCB work, soldering, power design, testing and satellite-communications tooling.
+
+</td>
+<td width="34%" valign="top">
+
+**How I work**
+
+I build from requirements to prototype, document tradeoffs, test practical paths, and distinguish confirmed contributions from team or model contributions.
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14243A,100:344B78&height=2&section=header" width="82%" alt="Section divider"/>
 </div>
